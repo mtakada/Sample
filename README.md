@@ -1,1 +1,4 @@
 # Welcome GitHub!
+
+ここはGitHubのサンプルページです。
+
